@@ -1,0 +1,112 @@
+
+/*int temp = 500;
+
+for (int regressao = 10; regressao > 0; regressao--)
+{
+    Console.WriteLine($"Falta {regressao}");
+    Thread.Sleep(temp);
+    Console.Beep();
+    temp = temp - 90;
+
+}
+
+Console.WriteLine("Tá pegando FOGOO, bixo !!!!");
+
+Console.ReadKey();*/
+
+//exercico
+
+/*for(int i = 1 ; i <= 100; i++)
+{
+    if (i % 2 == 0)
+        Console.Write($"| {i} |");
+}
+Console.ReadKey();*/
+
+
+/*int numero;
+Console.Write("Informe o número para a tabuada:  ");
+numero = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine($"A tabuada do número {numero}\n ");
+for (int i = 1; i <= 10; i++)
+{
+    Console.WriteLine($"{numero} x {i} = {numero * i}");
+    Thread.Sleep( 250 );
+}
+Console.ReadKey();*/
+
+/*int numero;
+int maior_numero = 0;
+int menor_numero = 0;
+
+Console.Write($"Informe o 1 º numero:  ");
+numero = Convert.ToInt32(Console.ReadLine());
+maior_numero = numero;
+menor_numero = numero;
+
+for (int i = 2; i <=10 ; i++)
+{
+    Console.Write($"Informe o {i} º numero:  ");
+    numero = Convert.ToInt32(Console.ReadLine());
+
+    if (numero > maior_numero)
+        maior_numero = numero;
+    if (numero < maior_numero)
+        menor_numero = numero;
+}
+Console.WriteLine($"O maior númeor é : {maior_numero}");
+Console.WriteLine($"O menor númeor é : {menor_numero}");
+Console.ReadKey();*/
+
+/*Ímpares e MúlƟplos de 3
+Desenvolver um algoritmo que efetue a soma de todos os números ímpares
+que são múlƟplos de três e que se encontram no conjunto dos números de 1
+até 500.*/
+
+
+//analisar um intervalo de  1 a 500
+//É multiplo de 3
+//somar
+
+
+/*int soma = 0;
+
+for (int i = 1; i <= 500; i ++)
+{
+    if ((i % 3 == 0)&&(i % 2 ==0 ))
+        soma += i;
+        Console.Write("{i} - ")
+        
+}
+Console.Write($"{soma}");/*
+
+/*Série Harmônica
+Crie um programa que calcule e exiba a soma dos primeiros 50 termos da série
+harmônica (1 + 1/2 + 1/3 + ... + 1/50).*/
+
+
+/*double fibonacci = 0;
+double item;
+
+for(int i = 1;i < 50;i++)
+{
+    item = 1 / i;
+    fibonacci = fibonacci + (1/i);
+    
+}
+Console.WriteLine($"{fibonacci:F2}");*/
+
+/*Números primos de 1 a 100
+Desenvolva um programa que imprima todos os números primos de 1 a
+100*/
+
+
+int numero = 1;
+
+for(int i = 1; i <100;i++)
+{
+    if (numero % i == 0)
+    Console.WriteLine($"{numero}");
+    numero= numero + i;
+}
