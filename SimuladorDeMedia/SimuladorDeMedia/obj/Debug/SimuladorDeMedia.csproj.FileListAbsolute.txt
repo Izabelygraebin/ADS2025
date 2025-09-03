@@ -1,0 +1,13 @@
+C:\Users\izabe\ADS\SimuladorDeMedia\SimuladorDeMedia\bin\Debug\SimuladorDeMedia.exe.config
+C:\Users\izabe\ADS\SimuladorDeMedia\SimuladorDeMedia\bin\Debug\SimuladorDeMedia.exe
+C:\Users\izabe\ADS\SimuladorDeMedia\SimuladorDeMedia\bin\Debug\SimuladorDeMedia.pdb
+C:\Users\izabe\ADS\SimuladorDeMedia\SimuladorDeMedia\obj\Debug\SimuladorDeMedia.csproj.AssemblyReference.cache
+C:\Users\izabe\ADS\SimuladorDeMedia\SimuladorDeMedia\obj\Debug\SimuladorDeMedia.Form1.resources
+C:\Users\izabe\ADS\SimuladorDeMedia\SimuladorDeMedia\obj\Debug\SimuladorDeMedia.Properties.Resources.resources
+C:\Users\izabe\ADS\SimuladorDeMedia\SimuladorDeMedia\obj\Debug\SimuladorDeMedia.csproj.GenerateResource.cache
+C:\Users\izabe\ADS\SimuladorDeMedia\SimuladorDeMedia\obj\Debug\SimuladorDeMedia.csproj.CoreCompileInputs.cache
+C:\Users\izabe\ADS\SimuladorDeMedia\SimuladorDeMedia\obj\Debug\SimuladorDeMedia.exe
+C:\Users\izabe\ADS\SimuladorDeMedia\SimuladorDeMedia\obj\Debug\SimuladorDeMedia.pdb
+C:\Users\izabe\ADS\SimuladorDeMedia\SimuladorDeMedia\obj\Debug\SimuladorDeMedia.Formularios.FormSimularMedia.resources
+C:\Users\izabe\ADS\SimuladorDeMedia\SimuladorDeMedia\obj\Debug\SimuladorDeMedia.Formularios.FormNotaMinimaExame.resources
+C:\Users\izabe\ADS\SimuladorDeMedia\SimuladorDeMedia\obj\Debug\SimuladorDeMedia.Formularios.FormMediaAposExameFinal.resources
